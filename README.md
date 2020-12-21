@@ -10,5 +10,5 @@ profile.py uses the configuration file created by AWS Cli
     e.g. 'aws configure --profile automation'
 
 ## Running
-'pipenv run "python InfraBot/profile.py"'
+    'pipenv run "python InfraBot/profile.py"'
 
